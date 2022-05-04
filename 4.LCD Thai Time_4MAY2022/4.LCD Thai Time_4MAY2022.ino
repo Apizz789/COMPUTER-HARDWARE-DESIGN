@@ -206,9 +206,6 @@ void loop()
     if (mode == 4) {
       stopwatch = 0;
     }
-
-
-
   }
 
   if (mode == 0) // Show Main Time
@@ -308,17 +305,7 @@ void loop()
       stopwatch = 0;
       delaystopwatch = millis();
     }
-
-
-
-
-
   }
-
-
-
-
-
 
   if (mode == 4)
   {
